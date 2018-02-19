@@ -33,7 +33,7 @@ Min- - - - - - - - - - - -●Max\n\
 ███████████████▓▓▓██▓▓╬╬╬╬╬╬▓███████████\n");
 console.info("\n\
 =========================================\n\
-BotName: LINE Cyber: JS\n\
+BotName: LINE Token: JS\n\
 Version: FORKED VERSION\n\
 Thanks to @CyberTK @TKR_TEAM\n\
 =========================================\n\
